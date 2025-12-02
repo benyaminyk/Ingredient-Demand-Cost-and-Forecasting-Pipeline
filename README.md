@@ -1,6 +1,7 @@
 This project builds an end-to-end data pipeline for analyzing restaurant ingredient usage, computing quarterly profitability, and forecasting supply needs using machine learning.
 
 1. Data Preparation
+
 Loads sales and production recipe datasets.
 Cleans column names, fixes date formats, removes currency symbols, and computes:
 Gross margin
