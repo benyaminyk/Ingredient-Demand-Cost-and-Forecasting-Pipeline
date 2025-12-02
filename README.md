@@ -32,6 +32,7 @@ Revenue, cost, profit, and profit margin
 Saves the combined results to quarterly_ingredient_data.csv.
 
 5. Forecasting Model
+
 Loads the quarterly dataset and performs:
 Label encoding
 Quarter indexing
@@ -43,6 +44,7 @@ MAE
 Profit & loss comparison between predicted and actual supply
 
 6. Outputs
+
 quarterly_ingredient_data.csv — processed dataset for modeling
 Model performance metrics
 Profit/loss comparison for each ingredient and quarter
